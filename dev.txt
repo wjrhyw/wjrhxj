@@ -1,1 +1,9 @@
 这里是要共同开发的文件；
+hxj{
+git add
+git commit
+git checkout
+git reset HEAD
+git branch
+git merge
+}
