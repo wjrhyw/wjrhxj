@@ -1,10 +1,5 @@
 ﻿hxj{
-git add
-git commit
-git checkout
-git reset HEAD
-git branch
-我家一行~~~~~~~~
+sjadklsajdlkasjdlakjdlaskdnlaskdn
 }
 wjr{
      git pull
