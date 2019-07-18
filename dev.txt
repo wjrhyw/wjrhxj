@@ -1,1 +1,27 @@
 这里是要共同开发的文件；
+魏：{
+    git add 
+git commit
+git status
+git checkout 文件名
+git reset HEAD 文件名
+git reset --hard commit-id
+git reset --hard HEAD~1 /HEAD^
+rm 文件名   git rm 文件名  git commit 
+git checkout 文件名
+git branch
+git checkout branch
+git branch -d   git branch -D
+git checkout -b branch
+git stash   git stash pop
+git log 
+git log --pretty=oneline
+git log --graph --pretty=oneline --abbrev-commit
+git rebase
+git remote add origin https://
+git push -u origin master
+git push origin master 
+git checkout -b branch origin/branch
+git clone
+git pull
+}
