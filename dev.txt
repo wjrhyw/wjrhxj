@@ -6,3 +6,14 @@ git reset HEAD
 git branch
 git merge
 }
+wjr{
+     git pull
+ git pull
+ git pull
+ git pull
+ git pull
+ git pull
+ git pull
+ git pull
+
+}
