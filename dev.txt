@@ -6,6 +6,7 @@ git reset HEAD
 git branch
 git merge
 new one
+我家一行
 }
 wjr{
      git pull
