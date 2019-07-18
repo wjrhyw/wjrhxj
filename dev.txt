@@ -4,7 +4,6 @@ git commit
 git checkout
 git reset HEAD
 git branch
-git merge
 我家一行
 }
 wjr{
